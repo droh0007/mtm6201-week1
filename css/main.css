@@ -1,0 +1,31 @@
+body {
+    background-color: #ffd6d1;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem
+}
+
+#kate {
+    max-width: 150px;
+    width: 100%;
+    height: auto;
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    background-color: lightcoral;
+}
+
+dl {
+    clear: left;
+    background-color: lightcoral;
+    padding: 15px;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
